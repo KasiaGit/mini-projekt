@@ -1,0 +1,63 @@
+html, body, div, span, applet, object, iframe, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, label, legend, p, blockquote, table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline;
+}
+
+body {
+  line-height: 1;
+  color: black;
+  background: white;
+}
+
+:focus {
+  outline: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+}
+
+fieldset, img {
+  border: 0;
+}
+
+address, caption, cite, code, dfn, em, strong, th, var {
+  font-style: normal;
+  font-weight: normal;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+  content: "";
+}
+
+blockquote, q {
+  quotes: "" "";
+}
+
+abbr, acronym {
+  border: 0;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3MvcmVzZXQuc2NzcyIsInJlc2V0LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUE2UixTQUFBO0VBQVMsVUFBQTtFQUFVLFNBQUE7RUFBUyxVQUFBO0VBQVUsb0JBQUE7RUFBb0IsbUJBQUE7RUFBbUIsZUFBQTtFQUFlLG9CQUFBO0VBQW9CLHdCQUFBO0FDVTdZOztBRFZzYTtFQUFLLGNBQUE7RUFBYyxZQUFBO0VBQVksaUJBQUE7QUNnQnJjOztBRGhCdWQ7RUFBTyxVQUFBO0FDb0I5ZDs7QURwQnllO0VBQU0seUJBQUE7RUFBeUIsaUJBQUE7QUN5QnhnQjs7QUR6QjBoQjtFQUFjLGdCQUFBO0VBQWdCLG1CQUFBO0FDOEJ4akI7O0FEOUI0a0I7RUFBYSxTQUFBO0FDa0N6bEI7O0FEbENtbUI7RUFBK0Msa0JBQUE7RUFBa0IsbUJBQUE7QUN1Q3BxQjs7QUR2Q3dyQjtFQUFNLGdCQUFBO0FDMkM5ckI7O0FEM0Mrc0I7RUFBa0IsZUFBQTtFQUFlLG1CQUFBO0FDZ0RodkI7O0FEaERvd0I7RUFBb0QsV0FBQTtBQ29EeHpCOztBRHBEbzBCO0VBQWEsYUFBQTtBQ3dEajFCOztBRHhEKzFCO0VBQWEsU0FBQTtBQzRENTJCIiwiZmlsZSI6InJlc2V0LmNzcyJ9 */
